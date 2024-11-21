@@ -1,0 +1,28 @@
+Comandos
+/*Para imprimir o tipo da variável em php*/
+    // echo gettype($data_nascimento), "<br>";
+
+/*Verificar a estrutura de arquivos*/
+    // var_dump($arquivo);
+
+/*Imprimir as os valores de um xml*/
+    // asXML()
+
+/*Utilizar uma forma alternativa para acessar as variáveis dentro do xml*/
+    // xpath('caminhos/do/xml')[posicao]
+
+/*Utilizar um foreach para arquivos xml*/
+
+    // $xml = simplexml_load_file('livros.xml');  // Carrega o arquivo XML 
+    // foreach ($xml->livro as $livro) {
+    //     echo "Título: " . $livro->titulo . "\n";
+    //     echo "Autor: " . $livro->autor . "\n";
+    //     echo "Ano: " . $livro->ano . "\n";
+    //     echo "------------\n";
+    // }
+
+/*Formatar datas*/
+    // date($data_nascimento, "d/m");
+    // format('d/m/Y H:i:s');  // Exibe: 21/11/2024 14:00:00
+        // format() lê objetos DateTime: é necessário transforma-los 
+        // $obj = new DateTime($obk);
