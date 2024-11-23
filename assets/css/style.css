@@ -1,0 +1,6 @@
+@import "";
+pagina {
+    width: 50%;
+    border: 5px solid #E18728;
+    float: left;
+}
