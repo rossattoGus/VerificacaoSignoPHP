@@ -1,3 +1,1 @@
-Necessidades para a aplicação
-    - bootsstrap@5.3.3
-    - jQuery
+Este projeto tem objetivo de abordar o básico sobre programação web atráves de CSS, PHP e HTML.

@@ -1,2 +1,0 @@
-configuração do bootstrap
-    Baixei o via node e instalei na pasta que estou usando, porém só encontrei o método de instalação para importar em arquivos .css; acredito que ao importar o bootstrap em arquivos .css daí podemos configuralos e assim utilizar o .css no html.

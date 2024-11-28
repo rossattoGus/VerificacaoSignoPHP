@@ -1,6 +1,18 @@
-@import "";
-pagina {
-    width: 50%;
-    border: 5px solid #E18728;
-    float: left;
+body {
+    background-color: aqua;
+    font-family: sans-serif;
+    margin-top: 200px;
+}
+
+input {
+    font-style: italic;
+    color: rgba(0, 0, 0, 0.384);
+}
+
+#signo {
+    font-style: italic;
+    font-family: "Mea Culpa", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 200px;
 }
